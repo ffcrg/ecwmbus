@@ -13,7 +13,7 @@ Hardware:
   * wireless M-Bus USB Stick (2 manufacturers are supported) 
   	- IMST IM871A-USB Stick ( available at http://www.tekmodul.de/index.php?id=shop-wireless_m-bus_oms_module or 
           http://webshop.imst.de/funkmodule/im871a-usb-wireless-mbus-usb-adapter-868-mhz.html)
-	- AMBER Wireless 868MHz USB Adapter (http://amber-wireless.de/162-1-AMB8465.html)
+	- AMBER Wireless M-Bus USB Adapter (http://amber-wireless.de/406-1-AMB8465-M.html)
 
 
 Software:
